@@ -1,5 +1,5 @@
 # Team JJIDLE
-Built in Driving Assitant   
+Built in Driving Assistant   
 내장형 블랙박스를 이용한 운전자 시야확장 시스템   
 ![](./img/motivation.png)   
 > 블랙박스가 운전자에 비해 시야가 더 넓다는 것을 이용함.     
